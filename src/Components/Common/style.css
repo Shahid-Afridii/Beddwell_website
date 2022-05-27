@@ -1,0 +1,29 @@
+@media only screen and (max-width: 800px) {
+  .test{
+      margin-left:0px!important;
+  }
+  .footer-widget{
+    margin-left:0px!important;
+  }
+  .welcome{
+    margin-top:0px!important;
+  }
+  .imageLogo{
+    width: 53% !important;
+  }
+  }
+  .social-icon-style-4 a {
+    background-color: #f2f2f2;
+    width: 42px;
+    height: 42px;
+    line-height: 42px;
+    font-size: 16px;
+    color: #919191;
+    display: inline-block;
+    text-align: center;
+    margin-right: 7px;
+  }
+  .social-icon-style-4 a:hover {
+    background-color: #e97730;
+    color: #ffffff;
+  }
